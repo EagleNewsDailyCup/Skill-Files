@@ -1,0 +1,6 @@
+PullBrief give me my eagle news brief
+PullBrief what's going on in eagle news
+PullBrief eagle news briefing
+
+GetBriefFromDate give me my eagle news brief from {SinceDate}
+GetBriefFromDate eagle news briefing from {SinceDate}

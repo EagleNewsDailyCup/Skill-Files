@@ -1,0 +1,22 @@
+{
+    "intents": [
+        {
+            "intent": "AMAZON.PauseIntent"
+        },
+        {
+            "intent": "AMAZON.ResumeIntent"
+        },
+        {
+            "intent": "PullBrief"
+        },
+        {
+            "intent": "GetBriefFromDate", 
+            "slots": [
+                {
+                    "name": "SinceDate",
+                    "type": "AMAZON.DATE"
+                }
+            ]
+        }
+    ]
+}
